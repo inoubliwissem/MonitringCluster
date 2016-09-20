@@ -1,13 +1,3 @@
-# MonitringCluster
-the code to monitoring the resource used in cluster with psutil python API
+This tool can be used to monitor the used resources in a cluster of machines. We used the following APIs: psutil, requests, json, time and socket. To run our monitoring tool, you need to launch ElasticSearch server first. 
 
-the code run on python 2.7+
-it is necessary to install many API python :
- psutil
- requests
- json
- time
- socket
- 
-to run the code you need launch elasticsearch server then run a script python
 
